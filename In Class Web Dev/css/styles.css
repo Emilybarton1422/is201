@@ -1,0 +1,39 @@
+body{
+    background-color: rgb(255, 192, 234);
+    color: black; /*text color*/
+    font-family:Georgia, 'Times New Roman', Times, serif
+}
+h1{
+    font-family: cursive;
+    text-align: center;
+}
+h4{
+    text-align: center;
+    font-style: italic;
+}
+a{
+    color: blueviolet;
+}
+a:visited{
+    color:blue 
+}
+img{
+    border: 2px solid fuchsia; 
+    padding: 3px;
+    margin: 5px;
+    /*Centers stuff*/ 
+    /* display: block;
+    margin: auto; */
+    /*Box Model (Content, padding, border, Margin)-->*/
+}
+.rizz{
+    font-family:'Courier New', Courier, monospace;
+    color: blueviolet;
+    background-color: azure;
+    font-weight: 1000;
+}
+.pineapple{
+    display: block;
+    margin: auto;
+}
+
